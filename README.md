@@ -41,10 +41,10 @@ Onde todos esses atributos podem ser obtidos no console do desenvolvedor do Twit
 - Manipulação dos dados para resolução da hipótese
 
 >>Parte 2
--organização do arquivo de dados
--Índices em arquivo
+- organização do arquivo de dados
+- Índices em arquivo
 
 >>Parte 3
--Índices em memória
--Criptografia
--Testes
+- Índices em memória
+- Criptografia
+- Testes
