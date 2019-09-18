@@ -1,8 +1,8 @@
-# INFO GRUPO
-Professor: Daniel Luis Notari
-Gabriel de Oliveira Bisotto
-Matheus Feijó Ferreira Guimarães
-Maurício Zalamena Bavaresco
+# INFO 
+- Professor: Daniel Luis Notari
+- Gabriel de Oliveira Bisotto0
+- Matheus Feijó Ferreira Guimarães
+- Maurício Zalamena Bavaresco
 
 # Organização de arquivos
 
