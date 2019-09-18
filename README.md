@@ -12,7 +12,7 @@ Trabalho avaliativo para disciplina de **organização de arquivos**<br/>
 </p>    Qual os animes melhor avaliados em determinada temporada. <br/></p>
 </p>    Qual os animes pior avaliados em determinada temporada. <br/></p>
 
-(Anime, animê ou animé, se refere à animação que é produzida por estúdios japoneses. A palavra é a pronúncia abreviada de "animação" em japonês, onde esse termo se refere a qualquer animação. Para os ocidentais, a palavra se refere às animações oriundas do Japão.)
+
 # Requisitos
 
 - JDK 8
